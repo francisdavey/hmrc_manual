@@ -110,7 +110,7 @@ class Page(object):
                 prin(ref)
                 if re.search('home.htm', link):
                     continue
-                print("self.base={}, link={}, level={}".format(self.base, link, self.level))
+                #print("self.base={}, link={}, level={}".format(self.base, link, self.level))
                 D=get_page(urlparse.urljoin(self.base, link), self.base, self.level)
                 D.recurse()
                 self.children[ref]=D
@@ -310,12 +310,12 @@ def make_epub(C, title, image, short_code):
     # Creating the title image file
     instream=open(os.path.join(image_directory, title_image_filename), 'rb')
     title_image=instream.read()
-    print(type(title_image))
-    print(len(title_image))
-    print(title_image_filename)
+    #print(type(title_image))
+    #print(len(title_image))
+    #print(title_image_filename)
     instream.close()
     epub.writestr(os.path.join('OEBPS', title_image_filename), title_image)
-    print(epub.namelist())
+    #print(epub.namelist())
 
     # title page
 
@@ -413,9 +413,9 @@ content="urn:uuid:0cc33cbd-94e2-49c1-909a-72ae16bc2658"/>
     manifest="\n".join(manifest_list)
     spine="\n".join(spine_list)
 
-    print("Spine list:", spine_list)
-    print("Manifest:", manifest)
-    print("HTML files:", html_files)
+    #print("Spine list:", spine_list)
+    #print("Manifest:", manifest)
+    #print("HTML files:", html_files)
 
     # Finally, write the index
     epub.writestr('OEBPS/Content.opf', index_tpl % {
