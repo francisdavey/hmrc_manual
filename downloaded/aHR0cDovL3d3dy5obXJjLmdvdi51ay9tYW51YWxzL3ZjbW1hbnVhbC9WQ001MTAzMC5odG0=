@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- INTERNET.xsl V11 (WIT V11 (October 2008)) AWS 2008 -->
+<TITLE>VCM51030 - VCT: investor income tax reliefs: ‘front-end’ income tax relief: how relief is claimed and calculated</TITLE>
+<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.hmrc.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://www.hmce.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://www.ir.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://customs.hmrc.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1))">
+<meta name="DC.creator" content="HM Revenue and Customs, 100 Parliament Street, London SW1A 2BQ">
+<meta name="DC.format" scheme="DCTERMS.IMT" content="text/html">
+<meta name="DC.language" scheme="DCTERMS.ISO639-2" content="eng">
+<meta name="DC.publisher" content="HM Revenue and Customs, 100 Parliament Street, London SW1A 2BQ">
+<meta name="eGMS.copyright" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+<meta name="DCTERMS.educationLevel" content="reference">
+<meta name="DCTERMS.spatial" content="">
+<meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2012-12-27">
+<meta name="eGMS.disposalReview" scheme="DCTERMS.W3CDTF" content="2017-12-13">
+<meta name="DC.title" content="VCT: investor income tax reliefs: ‘front-end’ income tax relief: how relief is claimed and calculated">
+<meta name="description" content="explains how front-end income tax relief is claimed and calculated under the vct scheme">
+<meta name="keywords" content="claim, calculate, calculation, claimed">
+<meta name="DC.subject" scheme="eGMS.IPSV" content="metadata">
+<meta name="DC.type" content="staff manual">
+<meta name="DCTERMS.audience" content="">
+<meta name="HMRC.location" content="HMRC">
+<meta name="HMRC.typePage" content="">
+<meta name="DC.identifier" scheme="HMRC.ID" content="vcm51030">
+<meta name="DCTERMS.temporal" scheme="DCTERMS.Period" content="">
+<meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="">
+<meta name="eGMS.status" content="">
+<meta name="DC.subject" scheme="HMRC.ST" content="metadata">
+<link href="/styles.css" type="text/css" rel="stylesheet" media="screen">
+<link href="/ir_supp_manuals.css" type="text/css" rel="stylesheet" media="screen">
+<link href="/print_styles.css" type="text/css" rel="stylesheet" media="print"><!-- end header -->
+</head><body>
+
+
+<div id="header">
+	<div class="main_frame_container">
+		<a href="/"><img src="/images/HMRC_logo_alt.gif" alt="HM Revenue &amp; Customs" name="HMRC" class="hmrc_logo" title="HM Revenue &amp; Customs"></a><a name="top"></a>
+  	<div id="navigation">
+        	
+        	<ul class="level1_nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="http://search2.hmrc.gov.uk/kb5/hmrc/contactus/home.page">Contact us</a></li>
+                <li><a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" title="This link will open a page in a new browser window">About us</a></li>
+                <li><a href="/jobs/">Jobs</a></li>
+                <li><a href="/accessibility/index.htm">Accessibility</a></li>
+				<li><a href="/cookies/index.htm">Cookies</a></li>
+                <li><a href="/comment/index.htm">Feedback</a></li>
+            	<li><a href="/menus/help.htm">Help</a></li>
+            </ul>
+        	<br class="clear">
+            <div id="lower_nav">
+            <div id="site_search">
+                <div class="site_search_container">
+					
+                  	                   
+		<form target="_top" action="http://search.hmrc.gov.uk/kb5/hmrc/hmrc/results.page" method="get" name="search">		
+<label class="hidden" for="search_keywords">Search</label>
+<input type="text" id="search_keywords" class="form_input_box"  size="10" name="qt" alt="Search">
+<input id="search_submit_button" class="search_button" type="submit" value=" Search "> 
+                      
+                        <!--[if gte IE 6]>
+
+                        <![endif]-->
+                   </form>
+
+                </div>
+            </div>
+        
+            <div id="tax_advisers_button">
+                <a href="/agents/">Tax agents &amp; advisers</a>
+            </div>
+            </div>
+		</div>
+        
+    </div>
+</div>
+<div id="tabs_etc">
+	<div id="tabs_container">
+		<div id="tabs">
+			<div class="tab" id="tab_bandc"><a href="/businesses/">businesses&nbsp;&amp; corporations</a></div>
+			<div class="tab" id="tab_employers"><a href="/employers/">employers</a></div>
+			<div class="tab" id="tab_iande"><a href="/individuals/">individuals&nbsp;&amp; employees</a></div>
+		</div>
+	</div>
+</div>
+<div id="main_body">
+
+<div id="centre_left_cols" class="fullwidth">
+<div class="text" id="centre_col">
+<p><a name="top"></a></p>
+<h1>VCM51030 - VCT: investor income tax reliefs: ‘front-end’ income tax relief: how relief is claimed and calculated</h1><a name="IDAOFSKH"></a><h2>ITA07/S262 &amp; S263</h2>
+<p>A claim to relief can be made either with the tax return or as a stand alone claim.</p>
+<p>To claim relief in the tax return the claimant need only complete the appropriate box in the main return.</p>
+<p>There is no set form for a stand alone claim but the claimant should identify the amount of income tax relief claimed and the year of assessment in which the shares were issued.</p>
+<p>For instructions regarding in-year claims for an adjustment to the claimant’s PAYE coding, see <a href="VCM51060.htm">VCM51060</a>. Those instructions make clear that no claim for in year relief against SA payments may be made except by way of a reduction in payments on account.</p>
+<p>The claimant may have received an income tax relief certificate from the company (see <a href="VCM51050.htm">VCM51050</a>).  HMRC officers should ask for this certificate only if they have reason to doubt the validity of the claim.</p>
+<p>Relief is given in terms of tax for the year of assessment in which the shares are issued by the VCT and is the smaller of:</p>
+<ol class="bullet1" start="1">
+<li>an amount equal to tax at 30 percent from 6 April 2006 onwards on amounts subscribed within the ‘permitted maximum' (<a href="VCM51020.htm">VCM51020</a>), and</li>
+<li>the amount which reduces the individual's income tax liability to nil.</li>
+</ol>
+<p>The amount of relief under (a) is calculated using the amount equal to tax at 30 percent whether the individual has a higher rate income tax liability for that year of assessment or not.</p>
+<p>For shares issued in the period before 6 April 2004 the amount of relief under (a) was calculated using an amount equal to the lower rate (20 percent), again without regard to the individual’s possible higher rate income tax liability. For the period from 6 April 2004 to 5 April 2006, the relief was calculated using an amount equal to the higher rate (40 percent).</p>
+<p>Relief should be given before any:</p>
+<ul>
+<li>EIS relief,</li>
+<li>income tax reduction in respect of personal reliefs or maintenance payments,</li>
+<li>income tax reduction in respect of mortgage interest payments,</li>
+<li>income tax reduction in respect of private medical insurance payments,</li>
+<li>double taxation relief,</li>
+<li>basic rate tax to be retained on charges,</li>
+</ul>
+<p>For the interaction with Gift Aid relief, see RE1836.</p>
+<p>For PAYE coding instructions, see <a href="VCM51070.htm">VCM51070</a>.</p>
+<div class="manual-nav">
+<div class="content-left"><a href="/"><strong>Home</strong></a><strong> | </strong><a href="/thelibrary/manuals.htm"><strong>Main Contents</strong></a><strong> | </strong><a title="Manual Contents" href="Index.htm"><strong>Manual Contents</strong></a></div>
+<div class="content-right"><a title="Previous" href="vcm51020.htm"><strong>Previous Page</strong></a><strong> | </strong><a title="Next" href="vcm51040.htm"><strong>Next Page</strong></a><strong> | </strong><a title="Go To Top" href="#top"><strong>Top</strong></a><strong> | </strong><a title="Go To Menu" href="vcm51000.htm"><strong>Menu</strong></a></div>
+</div>
+</div><div id="left_col">&nbsp;</div>
+ 
+</div><!-- End centre & left -->
+</div><!-- End main_body -->
+<div class="clear_all"></div>
+<!-- Footer -->
+<div id="footer">
+	<div class="main_frame_container">
+        	<ul class="footer_nav">
+      <li><a href="/copyright/">&copy; Crown Copyright</a><span>|</span></li>
+      <li><a href="/terms/">Terms &amp; Conditions</a><span>|</span></li>
+      <li><a href="/about/privacy.htm">Privacy Policy</a><span>|</span></li>
+      <li><a href="/nav/index.htm">Site Map</a><span>|</span></li>
+      <li><a href="/about/foi.htm">Freedom of Information</a><span>|</span></li>
+      <li><a href="https://www.gov.uk/" target="_blank"><img src="/images/blank.gif" alt="GOV.UK" class="govuk1_logo" title="GOV.UK"></a></li>
+      </ul>
+        </div>
+</div>
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 6/28/2011 12:51:37 PM -->
+<script src="http://www.hmrc.gov.uk/scripts/webtrends.js" type="text/javascript">
+</script><!-- =================================================================================== -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- =================================================================================== -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+_tag.WT.sp="www.hmrc.gov.uk";
+}
+_tag.dcsCollect();
+//]]>
+</script><noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsb55fp6vz5bdcewwgo90szp_5d2r/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.hmrc.gov.uk" name="DCSIMG"></div>
+</noscript><!-- END OF SmartSource Data Collector TAG -->
+<script type="text/javascript" src="/scripts/fe6903ab_panel-top-left1.js"></script>
+</body>	
+
+</html>

@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- INTERNET.xsl V11 (WIT V11 (October 2008)) AWS 2008 -->
+<TITLE>VCM11030 - EIS: income tax relief: the investor: no linked loans</TITLE>
+<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.hmrc.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://www.hmce.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://www.ir.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://customs.hmrc.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1))">
+<meta name="DC.creator" content="HM Revenue and Customs, 100 Parliament Street, London SW1A 2BQ">
+<meta name="DC.format" scheme="DCTERMS.IMT" content="text/html">
+<meta name="DC.language" scheme="DCTERMS.ISO639-2" content="eng">
+<meta name="DC.publisher" content="HM Revenue and Customs, 100 Parliament Street, London SW1A 2BQ">
+<meta name="eGMS.copyright" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+<meta name="DCTERMS.educationLevel" content="reference">
+<meta name="DCTERMS.spatial" content="">
+<meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2012-12-27">
+<meta name="eGMS.disposalReview" scheme="DCTERMS.W3CDTF" content="2017-12-13">
+<meta name="DC.title" content="EIS: income tax relief: the investor: no linked loans">
+<meta name="description" content="explains the no linked loans requirement for eis income tax relief and sets out sp6/98">
+<meta name="keywords" content="sp6/98, no linked loans">
+<meta name="DC.subject" scheme="eGMS.IPSV" content="metadata">
+<meta name="DC.type" content="staff manual">
+<meta name="DCTERMS.audience" content="">
+<meta name="HMRC.location" content="HMRC">
+<meta name="HMRC.typePage" content="">
+<meta name="DC.identifier" scheme="HMRC.ID" content="vcm11030">
+<meta name="DCTERMS.temporal" scheme="DCTERMS.Period" content="">
+<meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="">
+<meta name="eGMS.status" content="">
+<meta name="DC.subject" scheme="HMRC.ST" content="metadata">
+<link href="/styles.css" type="text/css" rel="stylesheet" media="screen">
+<link href="/ir_supp_manuals.css" type="text/css" rel="stylesheet" media="screen">
+<link href="/print_styles.css" type="text/css" rel="stylesheet" media="print"><!-- end header -->
+</head><body>
+
+
+<div id="header">
+	<div class="main_frame_container">
+		<a href="/"><img src="/images/HMRC_logo_alt.gif" alt="HM Revenue &amp; Customs" name="HMRC" class="hmrc_logo" title="HM Revenue &amp; Customs"></a><a name="top"></a>
+  	<div id="navigation">
+        	
+        	<ul class="level1_nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="http://search2.hmrc.gov.uk/kb5/hmrc/contactus/home.page">Contact us</a></li>
+                <li><a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" title="This link will open a page in a new browser window">About us</a></li>
+                <li><a href="/jobs/">Jobs</a></li>
+                <li><a href="/accessibility/index.htm">Accessibility</a></li>
+				<li><a href="/cookies/index.htm">Cookies</a></li>
+                <li><a href="/comment/index.htm">Feedback</a></li>
+            	<li><a href="/menus/help.htm">Help</a></li>
+            </ul>
+        	<br class="clear">
+            <div id="lower_nav">
+            <div id="site_search">
+                <div class="site_search_container">
+					
+                  	                   
+		<form target="_top" action="http://search.hmrc.gov.uk/kb5/hmrc/hmrc/results.page" method="get" name="search">		
+<label class="hidden" for="search_keywords">Search</label>
+<input type="text" id="search_keywords" class="form_input_box"  size="10" name="qt" alt="Search">
+<input id="search_submit_button" class="search_button" type="submit" value=" Search "> 
+                      
+                        <!--[if gte IE 6]>
+
+                        <![endif]-->
+                   </form>
+
+                </div>
+            </div>
+        
+            <div id="tax_advisers_button">
+                <a href="/agents/">Tax agents &amp; advisers</a>
+            </div>
+            </div>
+		</div>
+        
+    </div>
+</div>
+<div id="tabs_etc">
+	<div id="tabs_container">
+		<div id="tabs">
+			<div class="tab" id="tab_bandc"><a href="/businesses/">businesses&nbsp;&amp; corporations</a></div>
+			<div class="tab" id="tab_employers"><a href="/employers/">employers</a></div>
+			<div class="tab" id="tab_iande"><a href="/individuals/">individuals&nbsp;&amp; employees</a></div>
+		</div>
+	</div>
+</div>
+<div id="main_body">
+
+<div id="centre_left_cols" class="fullwidth">
+<div class="text" id="centre_col">
+<p><a name="top"></a></p>
+<h1>VCM11030 - EIS: income tax relief: the investor: no linked loans</h1><a name="IDAQY2QH"></a><h2>ITA07/S164</h2>
+<p>No relief is available if in period A (see <a href="VCM10540.htm">VCM10540</a>), the investor, or any associate (see <a href="VCM11100.htm">VCM11100</a>), receives a loan from any person which would not have been made, or would not have been made on the same terms, were it not for the EIS investment. This includes cases where credit is given or a debt due from the investor or associate is assigned.</p>
+<p>Our interpretation of these provisions is given in SP6/98 - reproduced below for convenience.</p>
+<p>Any individual who receives a loan which is caught by the provision is obliged under ITA07/S240 to give notice of the fact to an officer of HMRC within 60 days of the date when the loan was made.</p>
+<p>As regards claims to interest relief in respect of loans used to acquire shares in close companies where EIS relief is claimed, see SAIM10210. </p>
+<p><a href="#top" name="bottom">Top of page</a></p><a name="IDAU52QH"></a><h2>SP6/98 (30 November 1998) Enterprise Investment Scheme, Venture Capital Trusts, Capital Gains Tax Reinvestment Relief and Business Expansion Scheme - Loans to Investors</h2>
+<h3>Introduction</h3>
+<ol start="1">
+<li>The rules for the enterprise investment scheme, venture capital trusts, the business expansion scheme, and capital gains tax reinvestment relief each make provision for the tax relief in question to be withdrawn (or to be unavailable) in certain circumstances where a loan is made to the investor or to an associate of the investor.</li>
+<li>The circumstances in which these rules apply are where the loan would not have been made, or would not have been made on the same terms, if the investor had not made the investment in the shares for which the relief was to be claimed, or had not been proposing to make that investment. This statement explains HMRC's understanding of the way in which the provisions operate, and gives examples of instances where the rules have effect to deny or withdraw relief and of instances where they do not.</li>
+</ol>
+<h3>Application</h3>
+<ol start="3">
+<li>The way in which these rules are applied in any particular case will depend on the precise facts and circumstances. However, in looking to see whether a given loan falls within the scope of the legislation, HMRC's primary concern will be with the reason why the lender made the loan rather than why the borrower applied for it. The rules do not necessarily have effect to deny or withdraw relief just because a loan is used to finance the acquisition. Moreover, if the lender learns that the purpose, or one of the purposes, of the loan application is the financing of the acquisition, that does not necessarily mean that the rules have effect to deny or withdraw relief. The test is whether the lender makes the loan on terms which are influenced by the fact that the borrower, or an associate of the borrower, has acquired, or is proposing to acquire, the shares.</li>
+<li>The rules would not have effect to deny or withdraw relief where a person proposing to acquire shares receives a loan from a bank, if the bank would have made a loan on the same terms to a similar borrower who was intending to use it for a different purpose. But if, for example, a loan is made on a specified security which consists of, or includes, the shares in question, it would be one which would not otherwise have been made on the same terms. In such a case, the loan would be linked with the shares, and the investor would not qualify for relief in respect of them. This would apply only where the shares, or any rights associated with them, are specified as all or part of the security. It would not apply, for example, in any case where the lender had recourse against the borrower's assets generally.</li>
+<li>In considering the terms of any particular loan, HMRC will have regard to such features as the qualifying conditions which must be satisfied by the borrower, the existence of incentives or benefits offered to the borrower, the time allowed for repayment, the amount of repayment and interest charged, the timing of interest payments, and the nature of the security pledged.</li>
+</ol>
+<h3>Note</h3>
+<ol start="6">
+<li>The business expansion scheme came to an end for new investment at the end of 1993, and capital gains tax reinvestment relief is not available for shares acquired after 5 April 1998.</li>
+</ol>
+<p><strong>Note—</strong></p>
+<p>This statement superseded SP3/94.</p>
+<div class="manual-nav">
+<div class="content-left"><a href="/"><strong>Home</strong></a><strong> | </strong><a href="/thelibrary/manuals.htm"><strong>Main Contents</strong></a><strong> | </strong><a title="Manual Contents" href="Index.htm"><strong>Manual Contents</strong></a></div>
+<div class="content-right"><a title="Previous" href="vcm11020.htm"><strong>Previous Page</strong></a><strong> | </strong><a title="Next" href="vcm11040.htm"><strong>Next Page</strong></a><strong> | </strong><a title="Go To Top" href="#top"><strong>Top</strong></a><strong> | </strong><a title="Go To Menu" href="vcm11000.htm"><strong>Menu</strong></a></div>
+</div>
+</div><div id="left_col">&nbsp;</div>
+ 
+</div><!-- End centre & left -->
+</div><!-- End main_body -->
+<div class="clear_all"></div>
+<!-- Footer -->
+<div id="footer">
+	<div class="main_frame_container">
+        	<ul class="footer_nav">
+      <li><a href="/copyright/">&copy; Crown Copyright</a><span>|</span></li>
+      <li><a href="/terms/">Terms &amp; Conditions</a><span>|</span></li>
+      <li><a href="/about/privacy.htm">Privacy Policy</a><span>|</span></li>
+      <li><a href="/nav/index.htm">Site Map</a><span>|</span></li>
+      <li><a href="/about/foi.htm">Freedom of Information</a><span>|</span></li>
+      <li><a href="https://www.gov.uk/" target="_blank"><img src="/images/blank.gif" alt="GOV.UK" class="govuk1_logo" title="GOV.UK"></a></li>
+      </ul>
+        </div>
+</div>
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 6/28/2011 12:51:37 PM -->
+<script src="http://www.hmrc.gov.uk/scripts/webtrends.js" type="text/javascript">
+</script><!-- =================================================================================== -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- =================================================================================== -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+_tag.WT.sp="www.hmrc.gov.uk";
+}
+_tag.dcsCollect();
+//]]>
+</script><noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsb55fp6vz5bdcewwgo90szp_5d2r/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.hmrc.gov.uk" name="DCSIMG"></div>
+</noscript><!-- END OF SmartSource Data Collector TAG -->
+<script type="text/javascript" src="/scripts/fe6903ab_panel-top-left1.js"></script>
+</body>	
+
+</html>

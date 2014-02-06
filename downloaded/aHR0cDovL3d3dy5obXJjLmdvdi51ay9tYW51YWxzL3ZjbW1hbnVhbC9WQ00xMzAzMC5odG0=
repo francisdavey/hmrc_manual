@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- INTERNET.xsl V11 (WIT V11 (October 2008)) AWS 2008 -->
+<TITLE>VCM13030 - EIS: income tax relief: the issuing company: meaning of ‘permanent establishment’ </TITLE>
+<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.hmrc.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://www.hmce.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://www.ir.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://customs.hmrc.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1))">
+<meta name="DC.creator" content="HM Revenue and Customs, 100 Parliament Street, London SW1A 2BQ">
+<meta name="DC.format" scheme="DCTERMS.IMT" content="text/html">
+<meta name="DC.language" scheme="DCTERMS.ISO639-2" content="eng">
+<meta name="DC.publisher" content="HM Revenue and Customs, 100 Parliament Street, London SW1A 2BQ">
+<meta name="eGMS.copyright" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+<meta name="DCTERMS.educationLevel" content="reference">
+<meta name="DCTERMS.spatial" content="">
+<meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2012-12-27">
+<meta name="eGMS.disposalReview" scheme="DCTERMS.W3CDTF" content="2017-12-13">
+<meta name="DC.title" content="EIS: income tax relief: the issuing company: meaning of ‘permanent establishment’ ">
+<meta name="description" content="xplains meaning of ‘permanent establishment’">
+<meta name="keywords" content="permanent establishment, pe">
+<meta name="DC.subject" scheme="eGMS.IPSV" content="metadata">
+<meta name="DC.type" content="staff manual">
+<meta name="DCTERMS.audience" content="">
+<meta name="HMRC.location" content="HMRC">
+<meta name="HMRC.typePage" content="">
+<meta name="DC.identifier" scheme="HMRC.ID" content="vcm13030">
+<meta name="DCTERMS.temporal" scheme="DCTERMS.Period" content="">
+<meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="">
+<meta name="eGMS.status" content="">
+<meta name="DC.subject" scheme="HMRC.ST" content="metadata">
+<link href="/styles.css" type="text/css" rel="stylesheet" media="screen">
+<link href="/ir_supp_manuals.css" type="text/css" rel="stylesheet" media="screen">
+<link href="/print_styles.css" type="text/css" rel="stylesheet" media="print"><!-- end header -->
+</head><body>
+
+
+<div id="header">
+	<div class="main_frame_container">
+		<a href="/"><img src="/images/HMRC_logo_alt.gif" alt="HM Revenue &amp; Customs" name="HMRC" class="hmrc_logo" title="HM Revenue &amp; Customs"></a><a name="top"></a>
+  	<div id="navigation">
+        	
+        	<ul class="level1_nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="http://search2.hmrc.gov.uk/kb5/hmrc/contactus/home.page">Contact us</a></li>
+                <li><a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" title="This link will open a page in a new browser window">About us</a></li>
+                <li><a href="/jobs/">Jobs</a></li>
+                <li><a href="/accessibility/index.htm">Accessibility</a></li>
+				<li><a href="/cookies/index.htm">Cookies</a></li>
+                <li><a href="/comment/index.htm">Feedback</a></li>
+            	<li><a href="/menus/help.htm">Help</a></li>
+            </ul>
+        	<br class="clear">
+            <div id="lower_nav">
+            <div id="site_search">
+                <div class="site_search_container">
+					
+                  	                   
+		<form target="_top" action="http://search.hmrc.gov.uk/kb5/hmrc/hmrc/results.page" method="get" name="search">		
+<label class="hidden" for="search_keywords">Search</label>
+<input type="text" id="search_keywords" class="form_input_box"  size="10" name="qt" alt="Search">
+<input id="search_submit_button" class="search_button" type="submit" value=" Search "> 
+                      
+                        <!--[if gte IE 6]>
+
+                        <![endif]-->
+                   </form>
+
+                </div>
+            </div>
+        
+            <div id="tax_advisers_button">
+                <a href="/agents/">Tax agents &amp; advisers</a>
+            </div>
+            </div>
+		</div>
+        
+    </div>
+</div>
+<div id="tabs_etc">
+	<div id="tabs_container">
+		<div id="tabs">
+			<div class="tab" id="tab_bandc"><a href="/businesses/">businesses&nbsp;&amp; corporations</a></div>
+			<div class="tab" id="tab_employers"><a href="/employers/">employers</a></div>
+			<div class="tab" id="tab_iande"><a href="/individuals/">individuals&nbsp;&amp; employees</a></div>
+		</div>
+	</div>
+</div>
+<div id="main_body">
+
+<div id="centre_left_cols" class="fullwidth">
+<div class="text" id="centre_col">
+<p><a name="top"></a></p>
+<h1>VCM13030 - EIS: income tax relief: the issuing company: meaning of ‘permanent establishment’ </h1><a name="IDAVK4QH"></a><h2>ITA07/S191A</h2>
+<p>‘Permanent establishment’ is defined at section ITA07/S191A. Note that the definition is slightly different from that at FA03/S148 which serves for the purposes of the remainder UK Taxes Acts. This is so that the definition can be tailored as necessary for the purposes of the schemes, without the need to modify the more general domestic definition.</p>
+<p>The definition is based on Article 5 of the OECD Model Tax Convention. The OECD provides a detailed commentary on each Article of the Model Convention to assist with interpretation. That commentary cannot be replicated in this guidance (as HMRC does not hold the full copyright), but it should be found without difficulty using common internet search facilities. </p>
+<p>For a company to be considered to have a permanent establishment in the United Kingdom, either of the following must apply: </p>
+<ul>
+<li>it has a fixed place of business there through which the company’s business is wholly or partly carried on; or</li>
+<li>an agent acting on behalf of the company has and habitually exercises there authority to enter into contracts on behalf of the company.</li>
+</ul>
+<p><a href="#top" name="bottom">Top of page</a></p><a name="IDAXI4QH"></a><h2>Fixed place of business</h2>
+<p>The legislation lists a number of examples, including: </p>
+<ul>
+<li>a place of management; </li>
+<li>a branch; </li>
+<li>an office; </li>
+<li>a factory, </li>
+<li>a workshop, </li>
+<li>a mine, oil or gas well, </li>
+<li>a quarry or any other place of extraction of natural resources; and </li>
+<li>a building site or construction or installation project. </li>
+</ul>
+<p>This list is not intended to be exhaustive; the type of business will determine the type and nature of the premises or facilities required. </p>
+<p>But these would qualify as a permanent establishment only if in relation to the business as a whole, the activities carried on there are not of a preparatory or auxiliary character. The legislation lists some examples of activities which might be considered to be preparatory or auxiliary in nature - for instance, storage or display of goods or merchandise belonging to the company; the maintenance of stock owned by the company for storage, display or delivery; the maintenance of stock owned by the company for the purpose of processing by another person; purchasing goods or merchandise or collecting information for the company.</p>
+<p>But again, this list is not intended to be exhaustive and whether activities are considered to be preparatory or auxiliary will depend on the nature of the company’s business as a whole. What is critical is the extent to which the activities of the fixed place of business form an essential and substantial part of the whole business.</p>
+<p>For the purposes of this part of the EIS legislation, the following points may be worth noting. </p>
+<ul>
+<li>It is the business of the issuing or relevant company which is to be considered, and not the business of the group as a whole if the company is the member of a group. So where the issuing company is the parent company of a group and that company acts mainly as a holding company, there is no requirement that the business of one or more of its trading subsidiaries be carried on from the place of business in question. It will be sufficient that the administrative and management functions of the parent company be carried on there.</li>
+<li>Thus a UK-registered parent company, which carries out the necessary functions of a parent company from a fixed place of business within the UK, is likely to be considered to have a permanent establishment within the UK regardless of where the activities of any trading subsidiaries are carried on.</li>
+<li>The legislation makes it clear that an overseas-registered parent company will not be regarded as having a permanent establishment in the UK merely by virtue of the fact that it has a subsidiary which is resident in the UK, or which carries on its business there. An overseas parent company must itself have a permanent establishment in the UK for it to qualify.</li>
+<li>The issuing or relevant company must meet the requirements of the ‘independence’ test at ITA07/S185(2) - see <a href="VCM13100.htm">VCM13100</a>. </li>
+</ul>
+<p><a href="#top" name="bottom">Top of page</a></p><a name="IDAIHP0B"></a><h2>Agent acting on behalf of the company</h2>
+<p>The legislation also allows a company to be treated as having a permanent establishment in the UK where an agent has and exercises authority in the UK to enter into contracts on behalf of the company. This test is offered as an alternative to the ‘fixed place of business’ test and the company need only meet one of the tests to qualify.</p>
+<p>Agents who are independent of the company - that is, who offer their agency services to the company in pursuit of their own business - are excluded. Examples of the types of agency business which would be considered to be independent are brokers and commission agents.</p>
+<p>Merely maintaining an employee in the UK will not itself be sufficient to guarantee permanent establishment status. The agent (which may be an individual or a company) must have and must repeatedly use the authority to enter into contracts on behalf of the company or which are otherwise binding on the company. The contracts in question must relate to the substantive business of the company and not merely to matters which would be considered preparatory or auxiliary. </p>
+<div class="manual-nav">
+<div class="content-left"><a href="/"><strong>Home</strong></a><strong> | </strong><a href="/thelibrary/manuals.htm"><strong>Main Contents</strong></a><strong> | </strong><a title="Manual Contents" href="Index.htm"><strong>Manual Contents</strong></a></div>
+<div class="content-right"><a title="Previous" href="vcm13020.htm"><strong>Previous Page</strong></a><strong> | </strong><a title="Next" href="vcm13040.htm"><strong>Next Page</strong></a><strong> | </strong><a title="Go To Top" href="#top"><strong>Top</strong></a><strong> | </strong><a title="Go To Menu" href="vcm13000.htm"><strong>Menu</strong></a></div>
+</div>
+</div><div id="left_col">&nbsp;</div>
+ 
+</div><!-- End centre & left -->
+</div><!-- End main_body -->
+<div class="clear_all"></div>
+<!-- Footer -->
+<div id="footer">
+	<div class="main_frame_container">
+        	<ul class="footer_nav">
+      <li><a href="/copyright/">&copy; Crown Copyright</a><span>|</span></li>
+      <li><a href="/terms/">Terms &amp; Conditions</a><span>|</span></li>
+      <li><a href="/about/privacy.htm">Privacy Policy</a><span>|</span></li>
+      <li><a href="/nav/index.htm">Site Map</a><span>|</span></li>
+      <li><a href="/about/foi.htm">Freedom of Information</a><span>|</span></li>
+      <li><a href="https://www.gov.uk/" target="_blank"><img src="/images/blank.gif" alt="GOV.UK" class="govuk1_logo" title="GOV.UK"></a></li>
+      </ul>
+        </div>
+</div>
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 6/28/2011 12:51:37 PM -->
+<script src="http://www.hmrc.gov.uk/scripts/webtrends.js" type="text/javascript">
+</script><!-- =================================================================================== -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- =================================================================================== -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+_tag.WT.sp="www.hmrc.gov.uk";
+}
+_tag.dcsCollect();
+//]]>
+</script><noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsb55fp6vz5bdcewwgo90szp_5d2r/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.hmrc.gov.uk" name="DCSIMG"></div>
+</noscript><!-- END OF SmartSource Data Collector TAG -->
+<script type="text/javascript" src="/scripts/fe6903ab_panel-top-left1.js"></script>
+</body>	
+
+</html>

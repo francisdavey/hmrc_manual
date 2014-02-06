@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><!-- begin header --><head xmlns:java="http://xml.apache.org/xslt/java"><META http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><!-- begin title (if one exists) --><title>The &ldquo;no material interest&rdquo; requirement: Share options</title><!-- end title (if one exists) --><meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+<meta name="accessibility" content="ICRA"/>
+<meta name="audience" content=""/>
+<meta name="coverageSpatial" content=""/>
+<meta name="coverageTemporal" content=""/>
+<meta name="creatorAuthor" content=""/>
+<meta name="creatorOwner" content="Inland Revenue"/>
+<meta name="dateAvailable" content=""/>
+<meta name="dateClosed" content=""/>
+<meta name="dateIssued" content="2009-03-19"/>
+<meta name="disposalReview" content="2014-03-11"/>
+<meta name="dateValid" content=""/>
+<meta name="description" content="This page explains the impact of share options in calculating material interest limits"/>
+<meta name="disposalAction" content="Remove and Archive"/>
+<meta name="disposalAutoRemove" content=""/>
+<meta name="format" content="html"/>
+<meta name="identifier" content="essum32570"/>
+<meta name="language" content="en-gb"/>
+<meta name="location" content="IR Internet"/>
+<meta name="preservation" content=""/>
+<meta name="publisher" content="Inland Revenue"/>
+<meta name="relationHasPart" content=""/>
+<meta name="relationHasVersion" content=""/>
+<meta name="relationIsPartOf" content="essum"/>
+<meta name="relationIsReferencedBy" content=""/>
+<meta name="relationIsVersionOf" content=""/>
+<meta name="relationReferences" content=""/>
+<meta name="relationReplaces" content=""/>
+<meta name="rights" content=""/>
+<meta name="rightsCopyright" content="Inland Revenue"/>
+<meta name="status" content=""/>
+<meta name="subject" content="share options, material interest, 25% rule, material interest calculation"/>
+<meta name="subjectCategory" content=""/>
+<meta name="keywords" content=""/>
+<meta name="title" content="The &ldquo;no material interest&rdquo; requirement: Share options"/>
+<meta name="titleShort" content=""/>
+<meta name="type" content="guidance.Manual"/>
+<meta name="siteName" content="\sitename\external\iri"/>
+</head>
+<meta xmlns:java="http://xml.apache.org/xslt/java" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.hmrc.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://www.hmce.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &quot;http://www.ir.gov.uk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1))" http-equiv="pics-label">
+<link xmlns:java="http://xml.apache.org/xslt/java" media="screen" rel="stylesheet" type="text/css" href="/styles.css">
+<link xmlns:java="http://xml.apache.org/xslt/java" media="screen" rel="stylesheet" type="text/css" href="/ir_supp.css">
+<link xmlns:java="http://xml.apache.org/xslt/java" media="print" rel="stylesheet" type="text/css" href="/print_styles.css"><!-- end header --><body>
+
+
+<div id="header">
+	<div class="main_frame_container">
+		<a href="/"><img src="/images/hmrc_logo_alt.gif" alt="HM Revenue &amp; Customs" name="HMRC" class="hmrc_logo" title="HM Revenue &amp; Customs"></a><a name="top"></a>
+  	<div id="navigation">
+        	
+        	<ul class="level1_nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="http://search2.hmrc.gov.uk/kbroker/hmrc/contactus/start.jsp">Contact us</a></li>
+                <li><a href="/menus/aboutmenu.htm">About us</a></li>
+                <li><a href="/jobs/">Jobs</a></li>
+                <li><a href="/accessibility/index.htm">Accessibility</a></li>
+                <li><a href="/comment/index.htm">Feedback</a></li>
+            	<li><a href="/menus/help.htm">Help</a></li>
+            </ul>
+        	<br class="clear">
+            <div id="lower_nav">
+            <div id="site_search">
+                <div class="site_search_container">
+					
+      <form action="http://search.hmrc.gov.uk/kb5/hmrc/hmrc/results.page" method="get" name="search">		
+
+            <input id="search_submit_button" class="search_button" type="submit" value=" Search ">
+            <label class="hidden" for="search_keywords">Search</label>
+                      
+			<input type="text" id="search_keywords" class="form_input_box"  size="10" name="qt" alt="Search">
+		
+		
+                      
+                        <!--[if gte IE 6]>
+
+                        <![endif]-->
+                   </form>
+
+                </div>
+            </div>
+        
+            <div id="tax_advisers_button">
+                <a href="/agents/">Tax agents &amp; advisers</a>
+            </div>
+            </div>
+		</div>
+        
+    </div>
+</div>
+<div id="tabs_etc">
+	<div id="tabs_container">
+		<div id="tabs">
+			<div class="tab" id="tab_bandc"><a href="/businesses/">businesses&nbsp;&amp; corporations</a></div>
+			<div class="tab" id="tab_employers"><a href="/employers/">employers</a></div>
+			<div class="tab" id="tab_iande"><a href="/individuals/">individuals&nbsp;&amp; employees</a></div>
+		</div>
+	</div>
+</div>
+<div id="main_body">
+
+<div id="centre_left_cols" class="fullwidth"><table xmlns:java="http://xml.apache.org/xslt/java" cellpadding="0" cellspacing="0" border="0" width="770">
+<form action="http://search2.openobjects.com/kbroker/inldrev/kbsearch" method="get" name="search">
+<input value="0" name="sr" type="hidden"><input value="20" name="nh" type="hidden"><input value="iso-8859-1" name="cs" type="hidden"><input value="ir" name="sc" type="hidden"><input value="7" name="ha" type="hidden"><input value="0" name="mt" type="hidden">
+</form>
+</table>
+<div xmlns:java="http://xml.apache.org/xslt/java" id="centre_col"><!-- begin original content -->
+  <h1>ESSUM32570 - The &quot;no material interest&quot; requirement: Share options 
+  </h1>
+<p>Shares subject to an option count towards an individual's material interest 
+    for employee share scheme purposes (paragraph 13). Paragraph 13 also covers 
+    the treatment of the shares that can be acquired on option exercise, which 
+    might be existing shares or new issue shares, in determining the extent of 
+    the share capital of which the individual's share is a percentage. <br>
+    <br>
+    Paragraph 13 states </p>
+<ul>
+<li class="filledcircle">that share options already held by an
+employee or director or by a person associated with him, are to be
+counted when calculating whether he has a material interest</li>
+<li class="filledcircle">what is to be included in the company's
+overall ordinary share capital , of which the individual's share is
+a percentage.</li>
+<li class="filledcircle">An employee who does not have a material
+
+interest
+
+<br>
+    </li>
+<li style="list-style: none">
+<ul>
+<li class="filledcircle">may be granted an option which, when added
+
+to his existing interests, would give him a material interest, so
+
+that he</li>
+<li class="filledcircle">could not exercise that, or any other
+
+option under the approved scheme, until 12 months after he ceased
+
+to have a material interest.</li>
+</ul>
+</li>
+</ul>
+  <p>A material interest may cease because</p>
+<ul>
+<li class="filledcircle">the individual concerned (or his
+
+associates) sells some shares, or</li>
+<li class="filledcircle">the company's issued share capital is
+
+increased by the issue of more new shares.</li>
+</ul>
+  <p>In computing the total shares against which an individual's interests (shares 
+    and options) are to be tested on a given date for material interest purposes, 
+    it is necessary to add to the company's issued ordinary share capital on that 
+    date, the number of shares under options held by the individual concerned 
+    which, when exercised, must contractually be satisfied by the issue of new 
+    shares. <br>
+    <br>
+    It is not necessary to include in <a href="attachments/essum32570_matint.doc" target="_blank">the 
+    computation</a> share options held by other option-holders (unless they are 
+    associates of the individual concerned). Nor is it necessary to include any 
+    share options which may be satisfied by the transfer of existing shares, rather 
+    than the issue of new shares. </p>
+<div class="manual-nav">
+<table width="100%" cellSpacing="0" cellPadding="0" border="0">
+<tr vAlign="bottom">
+<td>
+<p align="left">
+<a href="/home.htm"><b>Home</b></a><b>|</b><a href="/manuals/"><b>Main Contents</b></a><b>|</b><a alt="Manual Contents" title="Manual Contents" href="Index.htm"><b>Manual Contents</b></a>
+</p>
+</td><td>
+<p align="right">
+<a alt="Previous" title="Previous" href="essum32565.htm"><b>Previous Page</b></a><b>|</b><a alt="Next" title="Next" href="essum32580.htm"><b>Next Page</b></a><b>|</b><a title="Go To Top" alt="Go To Top" href="#top"><b>Top</b></a><b>|</b><a alt="Go To Menu" title="Go To Menu" href="essum32500.htm"><b>Menu</b></a>
+</p>
+</td>
+</tr>
+<tr></tr>
+</table>
+</div><!-- end original content --></div><div id="left_col">&nbsp;</div>
+ 
+</div><!-- End centre & left -->
+</div><!-- End main_body -->
+<div class="clear_all"></div>
+<!-- Footer -->
+<div id="footer">
+	<div class="main_frame_container">
+        	<ul class="footer_nav">
+            	
+      <li><a href="http://www.businesslink.gov.uk/mkt1_home" target="_blank"><img src="/images/blank.gif" alt="Business Link" title="Business Link" class="businesslink_logo"></a><span>|</span></li>
+              
+      <li><a href="/copyright/">&copy; Crown Copyright</a><span>|</span></li>
+              
+      <li><a href="/terms/">Terms &amp; Conditions</a><span>|</span></li>
+              
+      <li><a href="/about/privacy.htm">Privacy Policy</a><span>|</span></li>
+              
+      <li><a href="/nav/index.htm">Site Map</a><span>|</span></li>
+              
+      <li><a href="/about/foi.htm">Freedom of Information</a><span>|</span></li>
+              
+      <li><a href="http://www.direct.gov.uk/en/index.htm" target="_blank"><img src="/images/blank.gif" alt="DirectGov" class="directgov_logo" title="DirectGov"></a></li>
+      </ul>
+        </div>
+</div>
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 6/28/2011 12:51:37 PM -->
+<script src="http://www.hmrc.gov.uk/scripts/webtrends.js" type="text/javascript">
+</script><!-- =================================================================================== -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- =================================================================================== -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+_tag.WT.sp="www.hmrc.gov.uk";
+}
+_tag.dcsCollect();
+//]]>
+</script><noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsb55fp6vz5bdcewwgo90szp_5d2r/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.hmrc.gov.uk" name="DCSIMG"></div>
+</noscript><!-- END OF SmartSource Data Collector TAG -->
+</body>	
+</html>
