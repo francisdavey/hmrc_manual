@@ -15,6 +15,24 @@ PARAM_TABLE={
         "name" : "VCM",
         "title" : "HMRC Venture Capital Schemes Manual",
         "image" : '''474px-Somerset_House_Inland_Revenue_entrance.jpg'''
+        },
+    "nimmanual" : {
+        "base_url" : "http://www.hmrc.gov.uk/manuals/nimmanual/",
+        "name" : "NIM",
+        "title" : "National Insurance Manual",
+        "image" : '''474px-Somerset_House_Inland_Revenue_entrance.jpg'''
+        },
+    "vatrevchg" : {
+        "base_url" : "http://www.hmrc.gov.uk/manuals/vatrevchgmanual/index.htm",
+        "name" : "VATREVCHG",
+        "title" : "VAT Reverse Charge Manual",
+        "image" : '''474px-Somerset_House_Inland_Revenue_entrance.jpg'''
+        },
+    "vatsmanual" : {
+        "base_url" : "http://www.hmrc.gov.uk/manuals/vatsmanual/index.htm",
+        "name" : "VATS",
+        "title" : "VAT Single Market",
+        "image" : '''474px-Somerset_House_Inland_Revenue_entrance.jpg'''
         }
 }
 

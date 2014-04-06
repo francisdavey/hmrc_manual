@@ -1,5 +1,5 @@
-# This module understands the HMRC ESSUM manual and parses it into a 
-# structure
+# This module understands the a number of HMRC manuals and parses them it into
+# a structure
 
 import urllib2
 import re
@@ -14,6 +14,12 @@ def rna(s): return "".join(filter(lambda x: ord(x)<128, s))
 def prin(s):
     s=rna(s)
     #print(s)
+
+def fix_title(url, title):
+    if re.search("vatrevchgmanual/index\.htm", url):
+        return("VATREVCHG - Reverse charge: Contents")
+    else:
+        return(title)
 
 #ogl='''<a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Contains public sector information licensed under the Open Government Licence v1.0.</a>'''
 #base='''http://www.hmrc.gov.uk/manuals/essum/Index.htm'''
@@ -52,11 +58,28 @@ def clean_title(s):
     s=s.strip('\n')
     return(s)
 
+# Statutes are referenced in abbreviated form.
+# Examples:
+
+# TCGA92/S150A
+# ITA07/Part 5
+# ITA07/Part 5A
+# TCGA92/SCH5B
+# TCGA92/Schedule 5C
+# ITA07/Part4/Chapter 6
+# ITA07/S192 to S199 and S303 to 310
+
+
 statutory_reference_table={
     'ITA07' : "http://www.legislation.gov.uk/ukpga/2007/3",
     'TCGA92' : "http://www.legislation.gov.uk/ukpga/1992/12",
     'CTA10' : "http://www.legislation.gov.uk/ukpga/2010"
 }
+
+doc_reference_table={
+    'Notice 735' : "http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&_pageLabel=pageLibrary_ShowContent&id=HMCE_PROD1_028649&propertyType=document"#,
+#    'Value Added Tax (Section 55A)(Specified goods and services and excepted supplies) Order 2010' : "http://www.legislation.gov.uk/uksi/2010/2239/made"
+    }
 
 def substitute_single_statutory_reference(mobj):
     return '''<a href="{0}">{1}</a>'''.format(statutory_reference_table[mobj.group(1)], mobj.group(1))
@@ -65,6 +88,17 @@ def substitute_statutory_references(s):
     statutory_references=statutory_reference_table.keys()
     (result, N)=re.subn('(?i)({})'.format('|'.join(statutory_references)), substitute_single_statutory_reference, s)
     return result
+
+def substitute_doc_references(s):
+    for key in doc_reference_table:
+        #print(key)
+        value=doc_reference_table[key]
+        key_pattern_string=key.replace(" ", ".*?")
+        (s, N)=re.subn(key_pattern_string, '''<a href="{}">{}</a>'''.format(value, key), s, re.I)
+        #print(N)
+        #print(re.search('(?i)735 VAT', s))
+        #print(s)
+    return(s)
 
 def tidy(s):
     result=[]
@@ -85,6 +119,7 @@ def tidy(s):
     (s, N5)=re.subn('''(?is)(<a[^>]*href=")([A-Z]+[0-9]+)\.htm"''', '''\\1#\\2"''', s)
     #s=re.sub("(?mis)(<p>)(\s*)(<p>)
     s=substitute_statutory_references(s)
+    s=substitute_doc_references(s)
     return "".join(s)
 
 def correct_hyperlinks(s):
@@ -191,7 +226,10 @@ def get_page(url, base, level=0):
     #print(url)
     #print('##{0}\n{1}'.format(url, html[:128]))
     mobj=re.search('(?is)<h1>(.*?)</h1>', html)
-    title=clean_title(mobj.group(1))
+    if mobj is None:
+        print("No <h1> title on page at ({}) of length {}:\n{}".format(url, len(html), html[:512]))
+        sys.exit(1)
+    title=fix_title(url, clean_title(mobj.group(1)))
     html=html[mobj.end():]
     if re.search('(?i)contents\w*$', title):
         X=parse_contents_table(url, title, html, base, level+1)
@@ -224,7 +262,7 @@ def parse_contents_table(url, title, html, base, level):
 
     C=Contents(url, title, base, level)
     #prin('##{0}\n{1}'.format(url, html[:128]))
-    mobj=re.search('(?i)<table (border="0"|class="tableborderzero").*?>', html)
+    mobj=re.search('(?i)<table (border="0"|class="tableborder(zero)?").*?>', html)
     html=html[mobj.end():]
 
     end_obj=re.search('(?is).*?(?=</table|$)', html)
@@ -244,8 +282,22 @@ def parse_contents_table(url, title, html, base, level):
             continue
 
         col_html=html[col1.start():]
+
+        # Handles lines in a contents page where the contents have
+        # been withheld under the FOI
+
+        # See eg http://www.hmrc.gov.uk/manuals/vatrevchgmanual/VATREVCHG23000.htm
+
+        if re.search("(?i)This text has been withheld", col_html):
+            html=html[mobj.end():]
+            mobj=tr.search(html)
+            continue
+
         a=re.compile('<a *href="([^"]*?)" *>(.*?)</a>', re.DOTALL | re.I)
         amatch=a.search(col_html)
+        if not amatch:
+            print("####",url, col_html, a)
+            sys.exit(1)
         ref=amatch.group(2)
         if amatch:
             link=amatch.group(1)
@@ -274,6 +326,8 @@ def make_html(C, title, filename="hmrc.html"):
     out.close()
 
 def make_epub(C, title, image, short_code):
+    # can we do make_epub with a leaf?
+    #print(C, type(C))
     R=C.html()
     #epub = zipfile.ZipFile('my_ebook.epub', 'w')
     epub = zipfile.ZipFile('{}_ebook.epub'.format(short_code), 'w')
